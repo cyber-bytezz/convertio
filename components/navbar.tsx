@@ -44,7 +44,7 @@ export default function Navbar({}): any {
       <Link href="https://github.com">
         <Button
           variant="default"
-          className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
+          className="rounded-full w-fit bg-blue-600 gap-2 items-center hidden md:flex"
           size="lg"
         >
           <span>Github Repo</span>
